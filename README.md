@@ -12,6 +12,7 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 
 | Date | Changes |
 |---|---|
+| 30/01/2020 | Feeds reduced to National |
 | 17/01/2020 | Initial version published |
 
 THIS DATA IS LICENSED UNDER THE CREATIVE COMMONS ATTRIBUTION LICENCE (CC-BY V4.0) FOR ANYONE TO ACCESS, USE AND SHARE; USING ATTRIBUTION "SPORTSUITE".
