@@ -12,6 +12,7 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 
 | Date | Changes |
 |---|---|
+| 01/04/2020 | Added support for virtual activities |
 | 18/02/2020 | Offer values no longer in quotes |
 | 13/02/2020 | Offers added |
 | 30/01/2020 | Feeds reduced to National |
