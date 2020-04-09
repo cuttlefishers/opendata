@@ -12,6 +12,7 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 
 | Date | Changes |
 |---|---|
+| 09/04/2020 | Improved quality of @id and shrunk feed size |
 | 02/04/2020 | Moved to @id and @type |
 | 01/04/2020 | Added support for virtual activities |
 | 18/02/2020 | Offer values no longer in quotes |
