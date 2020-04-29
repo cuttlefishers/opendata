@@ -12,6 +12,7 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 
 | Date | Changes |
 |---|---|
+| 29/04/2020 | Added activity list references |
 | 28/04/2020 | Resolved some minor issues |
 | 09/04/2020 | Improved quality of @id and shrunk feed size |
 | 02/04/2020 | Moved to @id and @type |
